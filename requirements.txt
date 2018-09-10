@@ -1,0 +1,6 @@
+jupyter
+matplotlib
+tensorflow
+# tensorflow 1.10.1 has requirement for numpy
+numpy<=1.14.5,>=1.13.3
+keras
